@@ -89,9 +89,9 @@ career_events:
 
   - image: "/img/draw_io_calibrated/rimac.jpg"
     date: "Jan 2023 - Present"
-    description: "Senior Battery Intelligence Engineer, (Bugatti-) Rimac)"
+    description: "Senior Battery Intelligence Engineer, (Bugatti-) Rimac"
 
-  - image: "/img/draw_io_calibrated/lmu.jpg"
+  - image: "/img/draw_io_calibrated/lmumunich.jpg"
     date: "Jul 2023 - Aug 2023"
     description: "Summer School Scholar, LMU Munich"
 
@@ -132,20 +132,177 @@ career_events:
     description: "Intern, Arup"
 
 # First image of the Career timeline
-timeline-img: "/img/converted_logos/runyao.jpg"
+career-img: "/img/draw_io_calibrated/runyao.jpg"
 ########
 # Life #
 ########
 
 life_events:
   - date: "20 Nov 2025"
-    description: "Paris, Lady Gaga Concert."
+    description: "Paris, Lady Gaga concert."
     images:
       - "/img/1120_paris_ladygaga/1.jfif"
       - "/img/1120_paris_ladygaga/2.jfif"
       - "/img/1120_paris_ladygaga/3.jfif"
       - "/img/1120_paris_ladygaga/4.jfif"
+  
+  - date: "02 Nov 2025"
+    description: "Giethoorn, a random trip on weekend; I love the Jellycat."
+    images:
+      - "/img/02112025_giethoorn_weekendtrip/1.jfif"
+      - "/img/02112025_giethoorn_weekendtrip/2.jfif"
+      - "/img/02112025_giethoorn_weekendtrip/3.jfif"
+      - "/img/02112025_giethoorn_weekendtrip/4.jfif"
 
+  - date: "04 Oct 2025"
+    description: "Zakynthos, I jumped into the sea and got water up my nose, which nearly killed me."
+    images:
+      - "/img/04102025_Zakynthos_bluesea/1.jfif"
+      - "/img/04102025_Zakynthos_bluesea/2.jfif"
+      - "/img/04102025_Zakynthos_bluesea/3.jfif"
+      - "/img/04102025_Zakynthos_bluesea/4.jfif"
+
+  - date: "05 Jul 2025"
+    description: "Omuro, Kamakura, Osaka, Kyoto in Japan, very different life, started loving Japan!"
+    images:
+      - "/img/05072025_japan_differentlife/1.jfif"
+      - "/img/05072025_japan_differentlife/2.jfif"
+      - "/img/05072025_japan_differentlife/3.jfif"
+      - "/img/05072025_japan_differentlife/4.jfif"
+
+
+  - date: "13 Oct 2024"
+    description: "Dubrovnik, a small and beautiful town; Burek is delicious!"
+    images:
+      - "/img/13102024_Dubruvnik_conference/1.jfif"
+      - "/img/13102024_Dubruvnik_conference/2.jfif"
+      - "/img/13102024_Dubruvnik_conference/3.jfif"
+      - "/img/13102024_Dubruvnik_conference/4.jfif"
+
+  - date: "11 Oct 2024"
+    description: "Munich, driving with Yuchen's friends; her butter bread is quite special."
+    images:
+      - "/img/11102024_Munich_drivingwithfriend/1.jfif"
+      - "/img/11102024_Munich_drivingwithfriend/2.jfif"
+      - "/img/11102024_Munich_drivingwithfriend/3.jfif"
+      - "/img/11102024_Munich_drivingwithfriend/4.jfif"
+
+
+  - date: "16 Aug 2024"
+    description: "Munich, Adele concert."
+    images:
+      - "/img/16082024_munich_adele/1.jfif"
+      - "/img/16082024_munich_adele/2.jfif"
+      - "/img/16082024_munich_adele/3.jfif"
+      - "/img/16082024_munich_adele/4.jfif"
+
+  - date: "06 July 2024"
+    description: "Vienna, we rented a small boat on the Danube."
+    images:
+      - "/img/06072024_vienna_boatsummer/1.jfif"
+      - "/img/06072024_vienna_boatsummer/2.jfif"
+      - "/img/06072024_vienna_boatsummer/3.jfif"
+      - "/img/06072024_vienna_boatsummer/4.jfif"
+
+  - date: "05 May 2024"
+    description: "Tenerife, pink castle, moon landscapes, stargazing, speedboat, and water park - unforgettable experience."
+    images:
+      - "/img/05052024_tenerif_moon/1.jfif"
+      - "/img/05052024_tenerif_moon/2.jfif"
+      - "/img/05052024_tenerif_moon/3.jfif"
+      - "/img/05052024_tenerif_moon/4.jfif"
+
+  - date: "25 Feb 2024"
+    description: "Malta, the jelly-like sea looks delicious."
+    images:
+      - "/img/25022024_malta_jellysea/1.jfif"
+      - "/img/25022024_malta_jellysea/2.jfif"
+      - "/img/25022024_malta_jellysea/3.jfif"
+      - "/img/25022024_malta_jellysea/4.jfif"
+
+
+  - date: "23 Dec 2023"
+    description: "Tromso, travel at Christmas, wish one day I could work there."
+    images:
+      - "/img/2312_tromso_xmas/1.jfif"
+      - "/img/2312_tromso_xmas/2.jfif"
+      - "/img/2312_tromso_xmas/3.jfif"
+      - "/img/2312_tromso_xmas/4.jfif"
+
+  - date: "02 Dec 2023"
+    description: "Zaanse Schans, photograph in pouring rain."
+    images:
+      - "/img/02122023_Zaanse Schans_raining_photo/1.jfif"
+      - "/img/02122023_Zaanse Schans_raining_photo/2.jfif"
+      - "/img/02122023_Zaanse Schans_raining_photo/3.jfif"
+      - "/img/02122023_Zaanse Schans_raining_photo/4.jfif"
+
+
+  - date: "13 Aug 2023"
+    description: "Munich, Partnachklamm - a hidden gorge, super cool and refreshing."
+    images:
+      - "/img/13082023_munich_partnachklamm/1.jfif"
+      - "/img/13082023_munich_partnachklamm/2.jfif"
+      - "/img/13082023_munich_partnachklamm/3.jfif"
+      - "/img/13082023_munich_partnachklamm/4.jfif"
+
+  - date: "21 May 2023"
+    description: "Budapest, their military music sounds amazing."
+    images:
+      - "/img/21052023_Budapest_citytour/1.jfif"
+      - "/img/21052023_Budapest_citytour/2.jfif"
+      - "/img/21052023_Budapest_citytour/3.jfif"
+      - "/img/21052023_Budapest_citytour/4.jfif"
+
+  - date: "04 Mar 2023"
+    description: "Split, soft and fluffy clouds."
+    images:
+      - "/img/04032023_split_cloud/1.jfif"
+      - "/img/04032023_split_cloud/2.jfif"
+      - "/img/04032023_split_cloud/3.jfif"
+      - "/img/04032023_split_cloud/4.jfif"
+
+  - date: "26 Feb 2023"
+    description: "Lake Bled and Ljubljana, climbing in the snow to see Lake Bled; city tour in dragon city."
+    images:
+      - "/img/26022023_bled_coldday/1.jfif"
+      - "/img/26022023_bled_coldday/2.jfif"
+      - "/img/26022023_bled_coldday/3.jfif"
+      - "/img/26022023_bled_coldday/4.jfif"
+
+
+  - date: "21 Dec 2022"
+    description: "Sintra Portugal, travel at Christmas."
+    images:
+      - "/img/2112_Sintra Portugal_vacation/1.jfif"
+      - "/img/2112_Sintra Portugal_vacation/2.jfif"
+      - "/img/2112_Sintra Portugal_vacation/3.jfif"
+      - "/img/2112_Sintra Portugal_vacation/4.jfif"
+
+
+  - date: "23 Nov 2022"
+    description: "Frankfurt, Within Temptation concert."
+    images:
+      - "/img/2511_frankfurt_withintemptation/1.jfif"
+      - "/img/2511_frankfurt_withintemptation/2.jfif"
+      - "/img/2511_frankfurt_withintemptation/3.jfif"
+      - "/img/2511_frankfurt_withintemptation/4.jfif"
+
+  - date: "07 Aug 2022"
+    description: "Wolfsburg, happy life waiting for joining Volkswagen."
+    images:
+      - "/img/0708_wolfsburg_vw/1.jfif"
+      - "/img/0708_wolfsburg_vw/2.jfif"
+      - "/img/0708_wolfsburg_vw/3.jfif"
+      - "/img/0708_wolfsburg_vw/4.jfif"
+  
+  - date: "23 July 2020"
+    description: "Munich, a lonely Birthday."
+    images:
+      - "/img/2307_munich_birthday/1.jfif"
+      - "/img/2307_munich_birthday/2.jfif"
+      - "/img/2307_munich_birthday/3.jfif"
+      - "/img/2307_munich_birthday/4.jfif"
 ###########
 # Contact #
 ###########
