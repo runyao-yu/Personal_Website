@@ -67,72 +67,72 @@ cusdis-app-id: "d34a3968-9be5-46d7-98f1-c4263cd1a220"
 ##########
 
 career_events:
-  - image: "/img/converted_logos/TU Delft_bw.png"
+  - image: "/img/draw_io_calibrated/tudelft.jpg"
     date: "May 2023 - Present"
     description: "PhD Researcher, TU Delft"
 
-  - image: "/img/converted_logos/LBS.png"
+  - image: "/img/draw_io_calibrated/lbs.jpg"
     date: "Jun 2026 - Sep 2026"
     description: "(Incoming) Visiting Researcher, London Business School"
 
-  - image: "/img/converted_logos/Exeter_bw.png"
+  - image: "/img/draw_io_calibrated/exeter.jpg"
     date: "Feb 2025 - Feb 2025 "
     description: "Guest Lecturer, University of Exeter"
 
-  - image: "/img/converted_logos/Vienna_bw.png"
+  - image: "/img/draw_io_calibrated/uniwien.jpg"
     date: "June 2024 - June 2024"
     description: "Guest Lecturer, University of Vienna"
 
-  - image: "/img/converted_logos/TU Delft_bw.png"
+  - image: "/img/draw_io_calibrated/tudelft.jpg"
     date: "Sep 2023 - Sep 2023"
     description: "Workshop Lecturer, TU Delft & TenneT"
 
-  - image: "/img/converted_logos/bugatti_rimac_bw.png"
+  - image: "/img/draw_io_calibrated/rimac.jpg"
     date: "Jan 2023 - Present"
     description: "Senior Battery Intelligence Engineer, (Bugatti-) Rimac)"
 
-  - image: "/img/converted_logos/LMU_bw.png"
+  - image: "/img/draw_io_calibrated/lmu.jpg"
     date: "Jul 2023 - Aug 2023"
     description: "Summer School Scholar, LMU Munich"
 
-  - image: "/img/converted_logos/BMW_bw.png"
+  - image: "/img/draw_io_calibrated/bmw.jpg"
     date: "Apr 2022 - Oct 2022"
     description: "Research Intern, BMW"
 
-  - image: "/img/converted_logos/TUMunich_bw.png"
+  - image: "/img/draw_io_calibrated/tum.jpg"
     date: "Sep 2020 - Sep 2022"
     description: "M.Sc. with Distinction, TU Munich"
 
-  - image: "/img/converted_logos/TUMunich_bw.png"
+  - image: "/img/draw_io_calibrated/tum.jpg"
     date: "May 2022 - Sep 2022"
     description: "Teaching Assistant, TU Munich"
 
-  - image: "/img/converted_logos/KPMG_bw.png"
+  - image: "/img/draw_io_calibrated/kpmg.jpg"
     date: "Jan 2022 - Feb 2022"
     description: "Intern, KPMG"
 
-  - image: "/img/converted_logos/ETH_bw.png"
+  - image: "/img/draw_io_calibrated/eth.jpg"
     date: "Aug 2021 - Jan 2022"
     description: "Visiting Researcher, ETH Zurich"
 
-  - image: "/img/converted_logos/danfoss_bw.png"
+  - image: "/img/draw_io_calibrated/danfoss.jpg"
     date: "Jun 2021 - Jan 2022"
     description: "Working Student, Danfoss"
 
-  - image: "/img/converted_logos/TUMunich_bw.png"
+  - image: "/img/draw_io_calibrated/tum.jpg"
     date: "May 2021 - Sep 2021"
     description: "Working Student, TU Munich"
 
-  - image: "/img/converted_logos/RPTU_bw.png"
+  - image: "/img/draw_io_calibrated/rptu.jpg"
     date: "Sep 2017 - Sep 2020"
     description: "B.Sc., TU Kaiserslautern"
 
-  - image: "/img/converted_logos/ARUP_bw.png"
+  - image: "/img/draw_io_calibrated/arup.jpg"
     date: "Nov 2019 - Mar 2020"
     description: "Intern, Arup"
 
 # First image of the Career timeline
-timeline-img: "/img/converted_logos/Foto.png"
+timeline-img: "/img/converted_logos/runyao.jpg"
 ########
 # Life #
 ########
@@ -151,7 +151,7 @@ life_events:
 ###########
 
 #email: "runyao.yu@tudelft.nl"
-resume-file: "/img/Resume_Runyao.pdf"
+resume-file: "/img/not_a_resume.png"
 
 ################
 # Author Blurb #
@@ -184,8 +184,8 @@ social:
 # Sections shown in the index page
 pages_list:
   Publication: "latest-post"
-  Career: "career"
-  Life: "life"
+  Experience: "career"
+  Moment: "life"
   Contact: "contact"
 
 syntax_theme: everforest
